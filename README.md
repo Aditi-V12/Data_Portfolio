@@ -1,4 +1,4 @@
-This i smy Portfolio from the Bootcamp where you can see projects on 
+This is my Portfolio from the Bootcamp where you can see projects on 
 Tableau
 SQL
 <<<<<<< HEAD
